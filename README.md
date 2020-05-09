@@ -12,6 +12,5 @@ I have been also implementing Python Coding & Interview Questions with Python, D
 
 ### Run any files on jupyter notebook, terminal/command prompt & analysis the output for more learning.
 
-
 ## Thank you for reaching out to me on Github. 
 
