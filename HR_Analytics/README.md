@@ -1,6 +1,6 @@
 # Hackathon : Complete Artificial Intelligence & Python & Interview Practice.
 ## @Rakesh Kumar
-## @Trishala Singh
+## @Trishala Singh : Data Scientist
 
 #### Email ID : rakesh.sit045@gmail.com
 #### Linkedin ID : https://www.linkedin.com/in/rakesh-kumar-gupta-52b77ab4/
