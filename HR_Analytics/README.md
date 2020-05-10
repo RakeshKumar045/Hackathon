@@ -1,4 +1,4 @@
-# Hackathon : Complete Artificial Intelligence & Python & Interview Practice.
+# Hackathon : HR Analtyics 
 ## @Rakesh Kumar
 
 #### Email ID : rakesh.sit045@gmail.com
