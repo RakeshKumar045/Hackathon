@@ -15,7 +15,7 @@
 3) CatBoost
 
 #### This project has 64.71% accuracy with a rank of 107 in Janta Hackathon (08-10-May-2020).
-#### Problem Statement : HR ANALYTICS - https://datahack.analyticsvidhya.com/contest/janatahack-hr-analytics/#LeaderBoard
+#### Problem Statement : MOBILITY ANALYTICS - https://datahack.analyticsvidhya.com/contest/janatahack-hr-analytics/#LeaderBoard
 ### Contact us any time, If you are having any queries.
 
 ## Thank you for reaching out to us on Github. 
