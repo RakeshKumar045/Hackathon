@@ -14,7 +14,7 @@
 2) LightGBM
 3) CatBoost
 
-#### This project has 68.98% accuracy with a rank of 201 in Janta Hackathon (15-10-May-2020).
+#### This project has 68.98% accuracy with a rank of 201 in Janta Hackathon (15-May-2020).
 #### Problem Statement : MOBILITY ANALYTICS -https://datahack.analyticsvidhya.com/contest/janatahack-mobility-analytics/#ProblemStatementhttps://datahack.analyticsvidhya.com/contest/janatahack-mobility-analytics/#ProblemStatement
 
 Welcome to Sigma Cab Private Limited - a cab aggregator service.

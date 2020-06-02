@@ -14,7 +14,7 @@
 5) Ranadom Forest
 
 
-#### This project has 51.60 accuracy with a rank of 220 in Janta Hackathon (15-10-May-2020).
+#### This project has 51.60 accuracy with a rank of 220 in Janta Hackathon (29-May-2020).
 #### Problem Statement : 
 Banking Machine Learninng ANALYTICS - https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/
 
