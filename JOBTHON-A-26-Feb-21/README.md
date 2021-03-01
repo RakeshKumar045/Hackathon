@@ -1,4 +1,8 @@
-## Hackathon : Complete Artificial Intelligence & Python & Interview Practice.
+# Hackathon : JOB-A-THON
+
+## @Rakesh Kumar
+
+#### Email ID : rakesh.sit045@gmail.com
 
 ## Follow Me:
 
@@ -7,18 +11,11 @@
 ![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=RakeshKumar045&show_icons=true)
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
-## Please Star me on GitHub
+#### This project has 67.88% accuracy with a rank of 264 in JOB-A-THON Hackathon (26-02-FEB-2021).
 
-## Please follow me on GitHub
+#### Problem Statement : JOB-A-THON - https://datahack.analyticsvidhya.com/contest/job-a-thon/#LeaderBoard
 
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RakeshKumar045?tab=repositories)
+### Contact us any time, If you are having any queries.
 
-https://github.com/RakeshKumar045?tab=repositories
-
-![Image github](./github_follow_pic/github.png "epidemiological model")
-
-### Contact me any time, If you are having any queries.
-
-# Thank you for reaching out to me on Github. 
-
+## Thank you for reaching out to us on Github. 
 
