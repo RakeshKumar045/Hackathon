@@ -2,7 +2,7 @@
 
 ## @Rakesh Kumar
 
-#### Email ID : rakesh.sit045@gmail.com
+#### Email ID: rakesh.sit045@gmail.com
 
 ## Follow Me:
 
