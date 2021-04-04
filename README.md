@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=RakeshKumar045&color=green)
+![](https://komarev.com/ghpvc/?username=RakeshKumar045&color=blue)
 
 ## Hackathon : Complete Artificial Intelligence & Python & Interview Practice.
 
