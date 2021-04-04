@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=RakeshKumar045&color=green)
 
 ## Hackathon : Complete Artificial Intelligence & Python & Interview Practice.
 
@@ -14,7 +15,7 @@
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/RakeshKumar045?tab=repositories)
 
-https://github.com/RakeshKumar045?tab=repositories
+https://github.com/RakeshKumar045
 
 ![Image github](./github_follow_pic/github.png "epidemiological model")
 
